@@ -14,6 +14,4 @@ if __name__ == "__main__":
     c = add(4, 5)
     d = sub(4, 1)
 
-
     print(c, d)
-    
